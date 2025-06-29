@@ -1,0 +1,198 @@
+[
+  {
+    "train_id": "bacs",
+    "train_name": "Sonar Bangla Express",
+    "train_no": 12345,
+    "seats": [
+      [
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0
+      ]
+    ],
+    "stations_times": {
+      "kamalapur": "7:45:00",
+      "airport": "8:12:00",
+      "cumilla": "12:45:00",
+      "chattogram": "2:00:00"
+    },
+    "stations": [
+      "kamalapur",
+      "airport",
+      "cumilla",
+      "chittagong"
+    ]
+  },
+  {
+    "train_id": "ecs",
+    "train_name": "Ekota Express",
+    "train_no": 705,
+    "seats": [
+      [
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0
+      ]
+    ],
+    "stations_times": {
+      "kamalapur": "10:00:00",
+      "tangail": "11:15:00",
+      "santahar": "14:30:00",
+      "dinajpur": "18:00:00"
+    },
+    "stations": [
+      "kamalapur",
+      "tangail",
+      "santahar",
+      "dinajpur"
+    ]
+  },
+  {
+    "train_id": "pcs",
+    "train_name": "Parabat Express",
+    "train_no": 709,
+    "seats": [
+      [
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0
+      ]
+    ],
+    "stations_times": {
+      "kamalapur": "6:20:00",
+      "bhairab": "7:45:00",
+      "srimangal": "11:30:00",
+      "sylhet": "13:30:00"
+    },
+    "stations": [
+      "kamalapur",
+      "bhairab",
+      "srimangal",
+      "sylhet"
+    ]
+  },
+  {
+    "train_id": "jbs",
+    "train_name": "Jamalpur Express",
+    "train_no": 799,
+    "seats": [
+      [
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0
+      ]
+    ],
+    "stations_times": {
+      "kamalapur": "16:45:00",
+      "gazipur": "17:30:00",
+      "mymensingh": "20:00:00",
+      "jamalpur": "21:30:00"
+    },
+    "stations": [
+      "kamalapur",
+      "gazipur",
+      "mymensingh",
+      "jamalpur"
+    ]
+  }
+]
